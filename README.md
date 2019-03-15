@@ -1,4 +1,4 @@
-# Amadeus for Developers APIs Testing Data Collections
+Testing APIs Data Collection
 
 Under `Test Environment` the APIs use the following data collections:
 
