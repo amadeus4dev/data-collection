@@ -14,5 +14,5 @@ Under `Test Environment` the APIs use the following data collections:
 
 - The content of `Hotel Search` comes directly from the hotel providers, so the content might change dynamically.
 
-- The Points Of Interest API has data for `Barcelona` in test.
+- The Points Of Interest API has data for the [following cities](data/pois.md) in test.
 
