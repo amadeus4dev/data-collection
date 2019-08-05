@@ -1,6 +1,8 @@
 # Hotel Ratings available in the test environment
 
+## London
 | Hotel Id | Hotel Name |
+|--------- | ----------- |
 | TELONMFS |  HILTON LONDON PADDINGTON | 
 | PILONBHG |  PREMIER INN LONDON TOLWORTH |
 | RTLONWAT |  NOVOTEL LONDON WATERLOO | 
@@ -12,6 +14,9 @@
 | BBLONBTL |  STAR HOTEL BED & BREAKFAST | 
 | CTLONCMB |  ST MARTINS LANE HOTEL | 
  
+## New-York
+| Hotel Id | Hotel Name |
+|--------- | ----------- |
 | GUNYCAXZ |  RESIDENCE INN NEW YORK THE BRONX AT METR | 
 | SJNYCAJA |  HOLIDAY INN MANHATTAN VIEW | 
 | ICNYCCF8 |  INTERCONTINENTAL TIMES SQUARE | 
