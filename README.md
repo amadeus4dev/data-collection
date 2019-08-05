@@ -4,7 +4,7 @@ Under `Test Environment` the APIs use the following data collections:
 
 - [List of Origin and Destinations](data/flightsearch.md) for `Flight Inspiration Search` and `Flight Cheapest Date Search`.
 
-- [List of Origin and Destinations](data/ti.md) for `Flight Most [Searched|Booked|Traveled] Destinations` and `Flight Busiest Traveling Period`.
+- [List of Origin and Destinations](data/ti.md) for `Flight Most [Booked|Traveled] Destinations` and `Flight Busiest Traveling Period`.
 
 - The [following table](data/checkinlinks.md) contains a list of valid airlines for `Flight Check-in Links`.
 
