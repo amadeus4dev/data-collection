@@ -1,4 +1,4 @@
-# Hotel Ratings available in the test environment
+# Hotel Ratings data available in the test environment
 
 ## London
 | Hotel Id | Hotel Name |
