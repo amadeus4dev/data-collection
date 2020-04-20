@@ -16,6 +16,8 @@ Under `Test Environment` the APIs use the following data collections:
 
 - `Hotel Ratings` offers 24 hotels in the test environment: 10 in London and 14 in New-York. You can find the list [here](data/hotelratings.md).
 
+- The [following table](data/hotelchains.md) contains a list of valid hotel chains for `Hotel Search`.
+
 - The Points Of Interest API has data for the [following cities](data/pois.md) in test.
 
 - The Artificial Intelligence APIs (`Flight Choice Prediction`, `Flight Delay Prediction`, `Airport On-time Performance`, `Trip Purpose Prediction` and `AI-generated Photos`) have no data restrictions in test.
