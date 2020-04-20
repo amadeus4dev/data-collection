@@ -1,4 +1,4 @@
-# Hotel Chains. Not all might be accessible in test systems.
+# Hotel Chains. Some of them might not be accessible in test environment.
 
 ## Hotel Chains
 | Chain Code | Master Chain | Chain Name |
