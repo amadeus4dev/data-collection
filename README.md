@@ -31,5 +31,5 @@ Under `Test Environment` the APIs use the following data collections:
 
 ## Trip
 
- `Trip Purpose Prediction` and `AI-generated Photos` have no data restrictions in test.
+- `Trip Purpose Prediction` and `AI-generated Photos` have no data restrictions in test.
 
