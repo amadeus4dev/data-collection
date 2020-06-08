@@ -14,7 +14,7 @@ Under `Test Environment` the APIs use the following data collections:
 
 - `Airline Code Lookup` contains almost all airlines.
 
-- The Artificial Intelligence APIs (`Flight Choice Prediction`, `Flight Delay Prediction` and `Airport On-time Performance`) have no data restrictions in test.
+- `Flight Choice Prediction`, `Flight Delay Prediction` and `Airport On-time Performance` APIs have no data restrictions in test.
 
 ## Hotel
 
@@ -27,9 +27,9 @@ Under `Test Environment` the APIs use the following data collections:
 
 ## Destination Content
 
-- The Points Of Interest and Safe Place APIs contain data for the [following cities](data/pois.md) in test.
+- `Points Of Interest` and `Safe Place` APIs contain data for the [following cities](data/pois.md) in test.
 
 ## Trip
 
-- `Trip Purpose Prediction` and `AI-generated Photos` have no data restrictions in test.
+- `Trip Purpose Prediction` and `AI-generated Photos` APIs have no data restrictions in test.
 
