@@ -1,4 +1,4 @@
-# Points of Interest Testing Data
+# Points of Interest & Safe Places Testing Data
 
 
 ## Bangalore
