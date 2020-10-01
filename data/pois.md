@@ -1,5 +1,6 @@
-# Points of Interest & Safe Places Testing Data
+# Destination Content testing coordinates
 
+The following cities are supported by Points of Interest, Safe Places and Tours and Activities under Testing environment.
 
 ## Bangalore
 
