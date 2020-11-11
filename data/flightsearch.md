@@ -1,6 +1,6 @@
 # Flight Inspiration and Flight Cheapest Date Search
 
-Asia and Pacific (APAC):
+## Asia and Pacific (APAC):
 |Origin | Destination |
 |------ | ----------- |
 |ADL|DPS|
@@ -154,7 +154,7 @@ Asia and Pacific (APAC):
 |TYO|CEB|
 |TYO|HAN|
 
-Latin American (LATAM):
+## Latin American (LATAM):
 |Origin | Destination |
 |------ | ----------- |
 |BHZ|LIS|
@@ -308,7 +308,7 @@ Latin American (LATAM):
 |VCP|LIS|
 |VIX|LIS|
 
-Northern, Eastern, Central and Southern Europe (NECSE):
+## Northern, Eastern, Central and Southern Europe (NECSE):
 |Origin | Destination |
 |------ | ----------- |
 |ARN|BKK|
@@ -462,7 +462,7 @@ Northern, Eastern, Central and Southern Europe (NECSE):
 |ZRH|DPS|
 |ZRH|SIN|
 
-North America (NORAM):
+## North America (NORAM):
 |Origin | Destination |
 |------ | ----------- |
 |ATL|LON|
@@ -616,7 +616,7 @@ North America (NORAM):
 |YYZ|LHR|
 |YYZ|LAS|
 
-Western Europe, Middle East and Africa (WEMEA):
+## Western Europe, Middle East and Africa (WEMEA):
 |Origin | Destination |
 |------ | ----------- |
 |AMS|NYC|
