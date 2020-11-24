@@ -16,6 +16,8 @@ Under `Test Environment` the APIs use the following data collections:
 
 - `Flight Choice Prediction`, `Flight Delay Prediction` and `Airport On-time Performance` APIs have no data restrictions in test.
 
+- `On Demand Flight Status` contains cached data with [no real-time updates](data/ondemandflightstatus.md).
+
 ## Hotel
 
 - The content of `Hotel Search` comes directly from the hotel providers, so the content might change dynamically. For your test, use big cities like `LON` (London) or `NYC` (New-York).
