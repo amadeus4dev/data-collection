@@ -16,7 +16,7 @@ Under `Test Environment` the APIs use the following data collections:
 
 - `Flight Choice Prediction`, `Flight Delay Prediction` and `Airport On-time Performance` APIs have no data restrictions in test.
 
-- `On Demand Flight Status` contains cached data with [no real-time updates](data/ondemandflightstatus.md).
+- `On Demand Flight Status` contains a copy of live data at a given time and real-time updates are not supported. Check out the [differences between test and production](data/ondemandflightstatus.md) environment. 
 
 ## Hotel
 

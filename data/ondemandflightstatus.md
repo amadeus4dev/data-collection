@@ -1,8 +1,8 @@
 ## On Demand Flight Status
 
-In test environment, the On Demand Flight Status API contains cached data.
-As these data are static the test environment doesn't support live updates such as real-time delay status, gate updates, terminal information etc.
-Let's have a look at an example below for the flight IB532 with departure date 2020-11-24.
+In test environment, the On Demand Flight Status API contains a snapshot of live data at a given time.
+Also it doesn't support real-time updates such as real-time delay status, gate updates, terminal information etc.
+Let's have a look at an example below for the flight IB532 with departure date 2020-11-24 and compare the test and production API responses.
 
 The **arrival's flight delay** is not part of the response in test environment, but in production it is as below: 
 
