@@ -1,6 +1,8 @@
 # Destination Content testing coordinates
 
-The following cities are supported by Points of Interest, Safe Places and Tours and Activities under Testing environment.
+The following cities are supported by Points of Interest, Safe Place and Tours & Activities under Testing environment.
+
+In addition, the Points of Interest API returns 10 results for each city. Even if you paginate for futher results, you'll return the same 10 POIs.  
 
 ## Bangalore
 
