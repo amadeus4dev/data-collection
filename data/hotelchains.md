@@ -1,4 +1,6 @@
-# Hotel Chains. 
+# Hotel Chains 
+
+These are the all the hotel chains returned by the API in production
 
 > Note that some of them might not be accessible in test environment.
 

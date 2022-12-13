@@ -4,7 +4,7 @@ Under `Test Environment` the APIs use the following data collections:
 
 ## Air
 
-- `Flight Inspiration Search` and `Flight Cheapest Date Search` contain the following [list of origin and destinations](data/flightsearch.md)
+- `Flight Inspiration Search` and `Flight Cheapest Date Search` are built on top of a per-computed cache. The APIs compute every day the most trending options based on past searches and bookings and fills the cache.
 
 - `Flight Most Booked and Traveled Destinations` and `Flight Busiest Traveling Period` contain the following [list of origin and destinations](data/ti.md).
 
