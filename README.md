@@ -29,11 +29,6 @@ Under `Test Environment` the APIs use the following data collections:
 - `Hotel Ratings` offers 24 hotels in the test environment: 10 in London and 14 in New-York. You can find the list [here](data/hotelratings.md).
 
 
-## Destination Content
+## Destination experiences
 
 - The `Tours and Activities` API contains data for the [following cities](data/tours.md) in test.
-
-## Trip
-
-- `Trip Purpose Prediction` and `AI-generated Photos` APIs have no data restrictions in test.
-
