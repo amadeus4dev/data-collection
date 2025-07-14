@@ -2,7 +2,7 @@
 
 Under `Test Environment` the APIs use the following data collections:
 
-## Air
+## Flights
 
 - `Flight Inspiration Search` and `Flight Cheapest Date Search` are built on top of a per-computed cache. The APIs compute every day the most trending options based on past searches and bookings and fills the cache.
 
@@ -20,7 +20,7 @@ Under `Test Environment` the APIs use the following data collections:
 
 - `Flight Price Analysis` contains the following [routes](data/flightpriceanalysis.md) in both test and production environments. 
 
-## Hotel
+## Hotels
 
 - The content of `Hotel Search` comes directly from the hotel providers, so the content might change dynamically. For your test, use big cities like `LON` (London) or `NYC` (New-York).
 
