@@ -1,4 +1,4 @@
-# Destination Content testing coordinates
+# Tours and Activities coordinates in test
 
 The following cities are supported the Tours and Activities API in test environment. 
 
