@@ -31,7 +31,7 @@ Under `Test Environment` the APIs use the following data collections:
 
 ## Destination Content
 
-- The `Tours & Activities` API contains data for the [following cities](data/pois.md) in test.
+- The `Tours and Activities` API contains data for the [following cities](data/tours.md) in test.
 
 ## Trip
 
